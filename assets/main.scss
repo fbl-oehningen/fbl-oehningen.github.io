@@ -27,5 +27,60 @@
 }
 
 body {
-  background-color: rgb(211,209,203);
+  /** background-color: rgb(211,209,203); */
+  background-color: rgb(227,224,210);
+}
+
+h1,h2 {
+  color:rgb(30,30,60)
+}
+
+a.post-link:visited {
+  color: rgb(140,56,51)
+}
+
+a.post-link {
+  color: rgb(140,56,51)
+}
+
+a, a:visited {
+  color: rgb(90,120,60)
+}
+
+header {
+  background-color: rgb(140,56,51);
+}
+
+article header {
+  background-color: rgb(227,224,210);;
+}
+
+.site-nav .page-link {
+  color: rgb(227,224,210);;
+}
+
+.site-title, .site-title:visited {
+  color: rgb(227,224,210);;
+}
+
+.site-footer {
+  border-top: 1px solid rgb(140,56,51);
+  padding: 10px 0;
+}
+
+.site-footer a {
+    color: #111 
+}
+
+@media screen and (max-width: 600px) {
+  .site-nav .menu-icon > svg {
+       fill:  rgb(140,56,51);
+  }
+  .trigger {
+    background-color:  rgb(140,56,51);
+  }
+
+  .site-nav  {
+    background-color: rgb(227,224,210);;
+  }
 }

@@ -1,7 +1,6 @@
 ---
 layout: page
 ---
-
 ![Ansicht von Öhningen](/assets/images/oehningen.png)
 
 Die Freie Bürgerliste ist die älteste im Öhninger Gemeinderat vertretene Liste.
