@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Berichte aus dem Gemeinderat
+title: Aktuelles aus dem Gemeinderat
 permalink: /blog/
 ---
 <h2>Kurze Stellungnahmen zu den Sitzungen des Gemeinderates</h2>
