@@ -1,0 +1,6 @@
+<footer class="site-footer">
+    <div class="wrapper footer-container">
+      {% capture custom_footer %}{% include custom_footer.md %}{% endcapture %}
+      {{ custom_footer | markdownify }}
+    </div>
+  </footer>
